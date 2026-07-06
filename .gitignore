@@ -1,0 +1,27 @@
+# Donnees brutes (trop lourdes et non publiables)
+data/raw/
+
+# Fichier Power BI (binaire, non versionneable)
+*.pbix
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+build/
+dist/
+wheels/
+*.egg-info
+
+# Environnements virtuels
+.venv/
+venv/
+env/
+
+# Outils de packaging
+uv.lock
+
+# Systeme
+.DS_Store
+Thumbs.db
