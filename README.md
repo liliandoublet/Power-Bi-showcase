@@ -30,22 +30,41 @@ Walmart cherche a prevoir les ventes hebdomadaires par rayon et par magasin. Plu
 
 ---
 
-## Apercu du dashboard
+## Aperçu du dashboard
 
-### 01_Vue d'ensemble
-![Vue d'ensemble](img/01_vue_ensemble.png)
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="img/01_vue_ensemble.png" width="700"><br>
+      <sub><b>1. Vue d'ensemble</b> : KPIs globaux, ventes par type et saisonnalité</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="img/02_analyse_magasin.png" width="700"><br>
+      <sub><b>2. Analyse par magasin</b> : relation taille / ventes et efficacité au m²</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="img/03_facteurs_externes.png" width="700"><br>
+      <sub><b>3. Facteurs externes</b> : météo, carburant, chômage et effet des jours fériés</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="img/04_prevision.png" width="700"><br>
+      <sub><b>4. Prévision SARIMA</b> : réel vs prévu, projection à 6 mois (MAPE 2,2 %)</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="img/05_synthese.png" width="700"><br>
+      <sub><b>5. Synthèse</b> : chiffres clés et enseignements métier</sub>
+    </td>
+  </tr>
+</table>
 
-### 02_Analyse par magasin
-![Analyse par magasin](img/02_analyse_magasin.png)
-
-### 03_Facteurs externes
-![Facteurs externes](img/03_facteurs_externes.png)
-
-### 04_Prevision SARIMA
-![Prevision](img/04_prevision.png)
-
-### 05_Synthese
-![Synthese](img/05_synthese.png)
 ---
 
 ## Donnees
