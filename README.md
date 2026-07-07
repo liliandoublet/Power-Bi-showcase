@@ -30,6 +30,24 @@ Walmart cherche a prevoir les ventes hebdomadaires par rayon et par magasin. Plu
 
 ---
 
+## Apercu du dashboard
+
+### Vue d'ensemble
+![Vue d'ensemble](img/01_vue_ensemble.png)
+
+### Analyse par magasin
+![Analyse par magasin](img/02_analyse_magasin.png)
+
+### Facteurs externes
+![Facteurs externes](img/03_facteurs_externes.png)
+
+### Prevision SARIMA
+![Prevision](img/04_prevision.png)
+
+### Synthese
+![Synthese](img/05_synthese.png)
+---
+
 ## Donnees
 
 | Caracteristique | Detail |
